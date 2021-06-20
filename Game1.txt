@@ -1,0 +1,119 @@
+12
+property
+service 600
+lucky 3000
+property
+property
+service 500
+property
+lucky 2000
+service 1000
+property
+property
+lucky 3000
+3
+Peter greedy
+Jack careful
+Sandy tactical
+Peter greedy 2 4
+Jack careful 2 3
+Sandy tactical 2 5
+Peter greedy 2 6
+Jack careful 1 1
+Sandy tactical 1 3
+Peter greedy 5 3
+Jack careful 2 5
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 6 4
+Jack careful 2 5
+Sandy tactical 3 5
+Peter greedy 2 4
+Jack careful 2 3
+Sandy tactical 2 5
+Peter greedy 2 6
+Jack careful 1 1
+Sandy tactical 1 3
+Peter greedy 5 3
+Jack careful 2 5
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 6 4
+Jack careful 2 5
+Sandy tactical 3 5
+Peter greedy 2 4
+Jack careful 2 3
+Sandy tactical 2 5
+Peter greedy 2 6
+Jack careful 1 1
+Sandy tactical 1 3
+Peter greedy 5 3
+Jack careful 2 5
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 6 4
+Jack careful 2 5
+Sandy tactical 3 5
+Peter greedy 2 4
+Jack careful 2 3
+Sandy tactical 2 5
+Peter greedy 2 6
+Jack careful 1 1
+Sandy tactical 1 3
+Peter greedy 5 3
+Jack careful 2 5
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 6 4
+Jack careful 2 5
+Sandy tactical 3 5
+Peter greedy 2 4
+Jack careful 2 3
+Sandy tactical 2 5
+Peter greedy 2 6
+Jack careful 1 1
+Sandy tactical 1 3
+Peter greedy 5 3
+Jack careful 2 5
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2
+Peter greedy 6 4
+Jack careful 2 5
+Sandy tactical 3 5
+Peter greedy 2 4
+Jack careful 2 3
+Sandy tactical 2 5
+Peter greedy 2 6
+Jack careful 1 1
+Sandy tactical 1 3
+Peter greedy 5 3
+Jack careful 2 5
+Sandy tactical 1 2
+Peter greedy 3 4
+Jack careful 2 3
+Sandy tactical 1 2

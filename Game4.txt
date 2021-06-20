@@ -1,0 +1,31 @@
+24
+property
+service 600
+lucky 3000
+property
+property
+service 500
+property
+lucky 2000
+service 1000
+property
+property
+lucky 3000
+property
+service 600
+lucky 3000
+property
+property
+service 500
+property
+lucky 2000
+service 1000
+property
+property
+lucky 3000
+5
+Peter greedy
+Jack careful
+Sandy tactical
+Drake careful
+Soe tactical
